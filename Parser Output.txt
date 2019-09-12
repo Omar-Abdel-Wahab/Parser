@@ -1,0 +1,88 @@
+program is found
+statement sequence is found
+statement is found
+read statement is found
+read
+x
+;
+statement is found
+if stmt is found
+if
+exp is found
+Simple exp is found
+term is found
+factor is found
+0
+<
+Simple exp is found
+term is found
+factor is found
+x
+then
+statement sequence is found
+statement is found
+assignment statement is found
+fact
+:=
+exp is found
+Simple exp is found
+term is found
+factor is found
+1
+;
+statement sequence is found
+statement is found
+repeat statement is found
+repeat
+statement sequence is found
+statement is found
+assignment statement is found
+fact
+:=
+exp is found
+Simple exp is found
+term is found
+factor is found
+fact
+*
+factor is found
+x
+;
+statement sequence is found
+statement is found
+assignment statement is found
+x
+:=
+exp is found
+Simple exp is found
+term is found
+factor is found
+x
+-
+term is found
+factor is found
+1
+Error: Expected ;
+until
+exp is found
+Simple exp is found
+term is found
+factor is found
+x
+=
+Simple exp is found
+term is found
+factor is found
+0
+;
+statement sequence is found
+statement is found
+write statement is found
+write
+exp is found
+Simple exp is found
+term is found
+factor is found
+fact
+Error: Expected ;
+end
